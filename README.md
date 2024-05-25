@@ -1,8 +1,8 @@
-# SlimSage
+# GroupChat
 
 ## Description
 
-&nbsp;basic client-server chat system using Python's socket and threading libraries. It allows multiple clients to connect to a server and exchange messages, both public and private, with each other. Here’s a brief description of its components and functionality:
+&nbsp;Basic client-server chat system using Python's socket and threading libraries. It allows multiple clients to connect to a server and exchange messages, both public and private, with each other.
 
 ## Echo Client
 1. Connection Setup:
